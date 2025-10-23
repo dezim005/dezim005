@@ -76,6 +76,14 @@ De Minas Gerais, uai, com o pé na tecnologia! Possuo formação técnica em Adm
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" 
 />
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
 
 <br/>
 <br/>
