@@ -1,6 +1,6 @@
 # 👾 Andre Lopes
 
-**`Intusiata de Tecnologia`**
+**`Entusiasta de Tecnologia`**
 
 De Minas Gerais, uai, com o pé na tecnologia! Possuo formação técnica em Administração (Senac Minas) e atualmente sou aluno de Sistemas de Informação na Puc Minas. Minha paixão por TI é meu hobby e rotina. Gosto de ser um descobridor, aprendendo e compartilhando sempre. (André de Sousa Lopes, 22).
 
